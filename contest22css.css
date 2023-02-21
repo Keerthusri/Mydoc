@@ -1,0 +1,73 @@
+.{
+    color:white;
+}
+body{
+    background-color: black;
+}
+.card{
+    border:2px solid #808080;
+    border-radius: 10px;
+}
+nav h1{
+    color: white;
+}
+.container{
+   display: flex;
+}
+nav .dash{
+    border:2px solid #808080;
+    border-radius: 10px;
+    padding-top: 38px;
+    padding-bottom: 39px;
+    padding-left: 51px;
+}
+.top{
+    margin-top: 20px;
+}
+/*css for image*/
+
+div .image{
+    width: 190px;
+    height: 190px;
+    border-radius: 100000px;
+    margin-top: 30px;
+    margin-left: 158px;
+    margin-right: 158px;
+}
+div .name{
+    height: 29px;
+    text-align: center;
+    color: #FFFFFF;
+}
+/* css for lists*/
+
+div .lists{
+    color:#FFFFFF
+    
+}
+/* css for media*/
+
+p{
+    color:#808080;
+}
+.img{
+    width: 33.33px;
+    height: 11.67px;
+}
+div span{
+    color:#808080;
+}
+/*css for tables*/
+.tables{
+    width: 1102px;
+    margin-left: 20px;
+}
+div h1{
+    color:#FFFFFF
+}
+div table tr th{
+    color:#808080
+}
+div table tr td{
+    color: #808080
+}
